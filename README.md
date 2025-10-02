@@ -25,6 +25,3 @@ One big takeaway was how important it is to **inspect** web pages carefully. Usi
 - The value of learning by doing. Trying, failing, and figuring things out as I go.
 
 ---
-
-## Next Steps  
-I plan to add more notes about what I learned and a PDF with reflections soon. For now, this is my first full scraping project and a big step in learning more Python in a practical way.
